@@ -1,0 +1,25 @@
+#JustLines-canvas {
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    z-index: 99999999;
+}
+
+.cursor {
+    background: red;
+    width: 12px;
+    height: 12px;
+    border: 2px solid rgb(41, 41, 41);
+    border-radius: 50%;
+    position: fixed;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+    z-index: 99999999;
+}
+
+.prepare-canvas {
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: "hidden" !important;
+    cursor: none !important;
+}
