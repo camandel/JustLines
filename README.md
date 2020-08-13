@@ -14,7 +14,7 @@ I like to use these kind of tools during presentations and I needed a quick way 
 
 ## Getting started
 
-* automatic installation: directly from Chrome Web Store (coming soon)
+* automatic installation: directly from [Chrome Web Store](https://chrome.google.com/webstore/detail/justlines/bcknpenfnepljiliemadceoinjajphco)
 * manual installation:
   * download and extract the archive of the [latest release](https://github.com/camandel/JustLines/releases/latest)
   * or clone the repository:
